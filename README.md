@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <a href="#" ><img src="https://www.sprinix.com/media/adobe-certified-badge.png" alt="Adobe Certified Developer" style="height: 250px !important;" /></a>
 
 ![DevOps Developer](https://img.shields.io/badge/DevOps-Developer-blueviolet?style=for-the-badge&logo=devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 I am a highly skilled and experienced Magento developer with a deep understanding of the Magento platform and its ecosystem. With a proven track record of delivering successful e-commerce solutions, I am passionate about leveraging Magento's robust features to create exceptional online shopping experiences.
