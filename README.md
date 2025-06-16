@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 <!--a href="https://www.buymeacoffee.com/gulshanmaurya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a-->
 
 <a href="#" ><img src="https://www.sprinix.com/media/adobe-certified-badge.png" alt="Adobe Certified Developer" style="height: 250px !important;" /></a>
-![Adobe Certified Developer](https://www.sprinix.com/media/adobe-certified-badge.png)
 
 ![DevOps Developer](https://img.shields.io/badge/DevOps-Developer-blueviolet?style=for-the-badge&logo=devops&logoColor=white)
 
