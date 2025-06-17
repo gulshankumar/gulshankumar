@@ -45,8 +45,18 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+## Frameworks
+![Magento 2](https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![Adobe Commerce](https://img.shields.io/badge/Adobe_Commerce-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Hyvä Theme](https://img.shields.io/badge/Hyvä%20Theme-F97316?style=for-the-badge&logo=html5&logoColor=white)
+
+
 ## API
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005f86?style=for-the-badge&logo=api&logoColor=white)
+![SOAP API](https://img.shields.io/badge/SOAP%20API-00417C?style=for-the-badge&logo=w3c&logoColor=white)
+
 
 ## OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -56,6 +66,13 @@ Here are some ideas to get you started:
 ## IDE
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Other Tools
+![Coolify](https://img.shields.io/badge/Coolify-3B82F6?style=for-the-badge&logo=gear&logoColor=white)
+![OrbStack](https://img.shields.io/badge/OrbStack-4F46E5?style=for-the-badge&logo=cube&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Fastly](https://img.shields.io/badge/Fastly-E60000?style=for-the-badge&logo=fastly&logoColor=white)
+
 
 
 I am a highly skilled and experienced Magento developer with a deep understanding of the Magento platform and its ecosystem. With a proven track record of delivering successful e-commerce solutions, I am passionate about leveraging Magento's robust features to create exceptional online shopping experiences.
