@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 
 
 <a href="#" ><img src="https://www.sprinix.com/media/adobe-certified-badge.png" alt="Adobe Certified Developer" style="height: 250px !important;" /></a>
+[![High Quality Developer](https://img.shields.io/badge/High--Quality%20Developer-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=2F2F2F)](https://github.com/gulshankumar/)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-FE8C00?style=for-the-badge&logo=freelancer&logoColor=white)](mailto:info@sprinix.com)
+
+
 
 ## DevOps
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
