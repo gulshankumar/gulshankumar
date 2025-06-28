@@ -30,6 +30,14 @@ My approach combines:
 
 ## 🛠️ Skills & Technologies
 
+### AI, ML, LLM, Agent
+![Gemini 1.5 Pro](https://img.shields.io/badge/Google-Gemini_1.5_Pro-4285F4?logo=google)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-🤗_Transformers-ffcc00?logo=huggingface)
+![OpenAI GPT-4](https://img.shields.io/badge/OpenAI-GPT--4-blueviolet?logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-%F0%9F%A6%84%20Powerful_Pipelines-blueviolet?logo=langchain)
+![LangGraph](https://img.shields.io/badge/LangGraph-Event--Driven_Graphs-ff69b4?logo=langchain)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-009688?logo=semanticweb)
+
 ### 🚀 DevOps
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Docker Compose](https://img.shields.io/badge/Docker--Compose-003f8a?logo=docker&logoColor=white&style=for-the-badge)](https://docs.docker.com/compose/)
