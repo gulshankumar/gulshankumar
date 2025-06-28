@@ -89,6 +89,7 @@ My approach combines:
 
 ### 🧰 Tools & Cloud
 ![Coolify](https://img.shields.io/badge/Coolify-3B82F6?style=for-the-badge&logo=gear&logoColor=white)
+![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![OrbStack](https://img.shields.io/badge/OrbStack-4F46E5?style=for-the-badge&logo=cube&logoColor=white)
 ![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
