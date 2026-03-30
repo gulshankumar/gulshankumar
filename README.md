@@ -21,7 +21,7 @@ I’m **Gulshan Kumar Maurya**, a passionate and versatile **Full-Stack Develope
 With hands-on expertise in a wide range of technologies—from **containerized deployments (Docker, Kubernetes)** to **advanced server management (Nginx, Traefik, Let's Encrypt)**—I bring **production-grade solutions** that are as robust as they are maintainable.
 
 My approach combines:
-- 🔧 Deep backend expertise in PHP, Node.js, SQL
+- 🔧 Deep backend expertise in PHP, Node.js, SQL, Python
 - ⚙️ Modern frontend work with React, TailwindCSS, Alpine.js
 - 🔐 Infrastructure as Code, SSL, firewalls, secure CI/CD workflows
 - 🧠 Business-aligned thinking with an emphasis on performance, UX, and scalability
@@ -62,6 +62,7 @@ My approach combines:
 
 
 ### 💻 Languages
+![Python](https://img.shields.io/badge/Python-005f86?style=for-the-badge&logo=api&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -78,6 +79,7 @@ My approach combines:
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🧱 Frameworks & Platforms
+![FastAPI](https://img.shields.io/badge/FastAPI-005f86?style=for-the-badge&logo=api&logoColor=white)
 ![Magento 2](https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![Adobe Commerce](https://img.shields.io/badge/Adobe_Commerce-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Hyvä Theme](https://img.shields.io/badge/Hyvä%20Theme-F97316?style=for-the-badge&logo=html5&logoColor=white)
