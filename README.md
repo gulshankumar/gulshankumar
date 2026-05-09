@@ -30,13 +30,18 @@ My approach combines:
 
 ## 🛠️ Skills & Technologies
 
-### AI, ML, LLM, Agent
-![Gemini 1.5 Pro](https://img.shields.io/badge/Google-Gemini_1.5_Pro-4285F4?logo=google)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-🤗_Transformers-ffcc00?logo=huggingface)
-![OpenAI GPT-4](https://img.shields.io/badge/OpenAI-GPT--4-blueviolet?logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-%F0%9F%A6%84%20Powerful_Pipelines-blueviolet?logo=langchain)
-![LangGraph](https://img.shields.io/badge/LangGraph-Event--Driven_Graphs-ff69b4?logo=langchain)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-009688?logo=semanticweb)
+### AI Engineer
+![LLM](https://img.shields.io/badge/LLM-9333EA?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-EC4899?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-009688?style=for-the-badge&logo=semanticweb&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0EA5E9?style=for-the-badge&logo=robotframework&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-16A34A?style=for-the-badge&logo=langchain&logoColor=white)
+![Vector Database](https://img.shields.io/badge/Vector%20DB-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### 🚀 DevOps
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
